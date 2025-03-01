@@ -1,0 +1,4 @@
+## Требования
+- Python 3.8+
+- CUDA (опционально, для работы с GPU)
+- Библиотеки: `pandas`, `torch`, `transformers`, `langchain`, `langchain-huggingface`, `faiss-cpu`, `nltk`
